@@ -1,6 +1,6 @@
 computer_parts_list = ["Ram", "Motherboard", "Powersupply", "Processor"]
 for items in computer_parts_list:
-     print(items)
+     # print(items)
 
  name = "Montaha"
 for single_word in name:
